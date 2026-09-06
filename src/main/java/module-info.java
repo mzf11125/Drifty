@@ -3,7 +3,6 @@ module Drifty {
     requires org.apache.commons.io;
     requires com.google.gson;
     requires org.hildan.fxgson;
-    requires jproc;
     requires javafx.graphics;
     requires javafx.controls;
     requires java.prefs;
