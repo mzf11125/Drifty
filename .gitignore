@@ -3,6 +3,7 @@
 target/
 Website/.next
 Website/node_modules
+.hoplite/
 
 ### IntelliJ IDEA ###
 .idea/
